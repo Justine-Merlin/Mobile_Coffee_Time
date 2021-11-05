@@ -1,6 +1,6 @@
 Zetsy technical test - build a simple application :
 
-run on phone Expo go app :
+run on phone Expo go app : exp://exp.host/@eldrid/rn_zetsy_test
 
 Run on desktop with expo CLI :
 npm install
