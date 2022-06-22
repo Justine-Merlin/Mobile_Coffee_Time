@@ -1,4 +1,4 @@
-Zetsy technical test - build a simple application :
+Mobile Cofee Time - simple application :
 
 run on phone Expo go app : exp://exp.host/@eldrid/rn_zetsy_test
 
